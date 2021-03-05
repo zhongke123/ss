@@ -16,6 +16,7 @@ public class user {
 		System.out.println("gerhtiergreighueir");
 		System.out.println("gerhtiergreighueir");
 		System.out.println("gerhtiergreighueir");
+				System.out.println("gerhtiergreig啊啊啊啊啊");
 		
 	}
 
